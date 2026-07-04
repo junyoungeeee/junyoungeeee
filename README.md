@@ -28,7 +28,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| 💩 Poop Ring | 세상에서 가장 킹받는 1주년 선물 | ✅ 출시 완료 |
+| [💩 Poop Ring](https://poopring.junyounge.com) | 세상에서 가장 킹받는 1주년 선물 | ✅ Released |
 
 ---
 ## 📬 Contact me
