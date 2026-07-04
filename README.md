@@ -29,7 +29,7 @@
 | Project | Description | Status |
 |---|---|---|
 | [💩 Poop Ring](https://poopring.junyounge.com) | 세상에서 가장 킹받는 1주년 선물 | ✅ Released |
-
+| 슬랑이 | 슬랑이 중독자를 위한 선물  | 🧪 Testing |
 ---
 ## 📬 Contact me
 
