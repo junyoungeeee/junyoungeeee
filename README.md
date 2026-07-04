@@ -31,4 +31,7 @@
 | 💩 Poop Ring | 세상에서 가장 킹받는 1주년 선물 | 🧪 Testing |
 
 ---
+## 📬 Contact me
 
+- 📧 Email : junyounge0712@gmail.com
+- 📸 Instagram : @jun.younge
