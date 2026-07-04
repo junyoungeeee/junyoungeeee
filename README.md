@@ -28,7 +28,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| Poop Ring | 세상에서 가장 킹받는 1주년 선물 | 🧪 Testing |
+| 💩 Poop Ring | 세상에서 가장 킹받는 1주년 선물 | 🧪 Testing |
 
 ---
 
